@@ -13,6 +13,7 @@
 		FE8C2CC129A62526003E11B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE8C2CBF29A62526003E11B7 /* Main.storyboard */; };
 		FE8C2CC329A62528003E11B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE8C2CC229A62528003E11B7 /* Assets.xcassets */; };
 		FE8C2CC629A62528003E11B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE8C2CC429A62528003E11B7 /* LaunchScreen.storyboard */; };
+		FEECC1D529AA16B8009BA57D /* fff in Resources */ = {isa = PBXBuildFile; fileRef = FEECC1D429AA16B8009BA57D /* fff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE8C2CC229A62528003E11B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE8C2CC529A62528003E11B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE8C2CC729A62528003E11B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEECC1D429AA16B8009BA57D /* fff */ = {isa = PBXFileReference; lastKnownFileType = text; path = fff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FE8C2CB929A62526003E11B7 /* AppDelegate.swift */,
 				FE8C2CBB29A62526003E11B7 /* SceneDelegate.swift */,
 				FE8C2CBD29A62526003E11B7 /* ViewController.swift */,
+				FEECC1D429AA16B8009BA57D /* fff */,
 				FE8C2CBF29A62526003E11B7 /* Main.storyboard */,
 				FE8C2CC229A62528003E11B7 /* Assets.xcassets */,
 				FE8C2CC429A62528003E11B7 /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE8C2CC629A62528003E11B7 /* LaunchScreen.storyboard in Resources */,
+				FEECC1D529AA16B8009BA57D /* fff in Resources */,
 				FE8C2CC329A62528003E11B7 /* Assets.xcassets in Resources */,
 				FE8C2CC129A62526003E11B7 /* Main.storyboard in Resources */,
 			);
